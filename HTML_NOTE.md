@@ -12,8 +12,8 @@
 ```
 <!DOCTYPE html>
 <html>
-<head>
-  <title>Page title</title> //contain info for brower and search engine such as meta-data.
+<head> //contain info for brower and search engine such as meta-data.
+  <title>Page title</title> //will show on the tab of the page
 </head>
 
 <body>
